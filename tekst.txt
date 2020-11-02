@@ -3,5 +3,15 @@ hoi
 doei
 =======
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+doei van jeroen, terwijl er nog geen push van Medy is...
+=======
+>>>>>>> 919fb4cfdd3fe8c43076c60d9ef647784bfb0831
 Hoi, hoe gaat het?
 >>>>>>> 91e0cb2ec7e235053ea771d74316e32f8736a6b4
+
+
+====
+met mij gaat het goed
