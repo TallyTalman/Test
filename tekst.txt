@@ -1,2 +1,7 @@
 hoi
+<<<<<<< HEAD
 doei
+=======
+
+Hoi, hoe gaat het?
+>>>>>>> 91e0cb2ec7e235053ea771d74316e32f8736a6b4
