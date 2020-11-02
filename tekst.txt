@@ -1,7 +1,5 @@
 hoi
 
-<<<<<<< HEAD
 doei van jeroen, terwijl er nog geen push van Medy is...
-=======
+
 Hoi, hoe gaat het?
->>>>>>> 91e0cb2ec7e235053ea771d74316e32f8736a6b4
